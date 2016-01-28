@@ -10,6 +10,8 @@ static cocos2d::Size largeResolutionSize = cocos2d::Size(1536, 2048);
 
 AppDelegate::AppDelegate() {
 
+	cocos2d::log("Hello A Duc");
+
 }
 
 AppDelegate::~AppDelegate() 
